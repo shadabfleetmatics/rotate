@@ -1,0 +1,22 @@
+{
+  "name": "rotate",
+    "version": "0.0.1",
+  "homepage": "https://github.com/shadabfleetmatics/project",
+  "authors": [
+    "Mohammad Shadab <mohammad.shadab@fleetmatics.com>"
+  ],
+  "description": "a simple element rotate",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
